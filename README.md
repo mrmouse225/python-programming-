@@ -1,2 +1,7 @@
 # python-programming-
-Hii there this is Python programming era 
+#this is my python programming era 
+
+#variables
+
+name="kio","charly"
+print( "these are the names of the students",name)
